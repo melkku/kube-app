@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vprodb
-        image: melkku/vprofiledb:latest
+        image: melkku/vprofiledb
           #args:
           #- "--ignore-db-dir"
           #- "lost+found"
